@@ -12,9 +12,7 @@
 从图标大小、弹框大小、位置、按钮位置，等各个方面各种体验的小细节，也改了多次小bug，完善到今天的一步。
 目前也在逐步迭代，有任何需求皆可反馈作者。
 # 使用介绍
-![js](https://github.com/liteyais/Iconfont-Copy-SVG/assets/16641863/14b5bf4d-5ed9-4037-89b0-9e028785907a)
-
 - 支持一键复制图标
 - 支持设置复制的图标大小
 - 支持一键复制插画库文件
-<img width="450px"  src="https://github.com/liteyais/Iconfont-Copy-SVG/assets/16641863/14b5bf4d-5ed9-4037-89b0-9e028785907a"/>
+<img width="1000px"  src="https://github.com/liteyais/Iconfont-Copy-SVG/assets/16641863/14b5bf4d-5ed9-4037-89b0-9e028785907a"/>
