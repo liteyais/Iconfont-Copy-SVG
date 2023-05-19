@@ -1,10 +1,10 @@
 # iconfont一键复制SVG
 # 介绍
+此脚本属于油猴脚本，需要配合浏览器扩展油猴使用。
 支持一键复制iconfont图标，支持设置复制默认图标大小。支持图标库文件一键复制。
 方便产品、设计、及开发的小伙伴使用。
-# 油猴插件地址
+# 地址
 插件地址：[链接](https://greasyfork.org/zh-CN/scripts/464228-iconfont%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6svg)<br/>
-（需要配合浏览器油猴扩展使用）
 # 参与者
 开发、发布：[Allen Lv](https://greasyfork.org/zh-CN/users/398437-allen-lv)<br/>
 产品：[liteyais](https://greasyfork.org/zh-CN/users/1061995-liteyais)
