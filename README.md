@@ -4,7 +4,7 @@
 支持一键复制iconfont图标，支持设置复制默认图标大小。支持图标库文件一键复制。
 方便产品、设计、及开发的小伙伴使用。
 # 地址
-插件地址：[链接](https://greasyfork.org/zh-CN/scripts/464228-iconfont%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6svg)<br/>
+插件在线安装地址：[链接](https://greasyfork.org/zh-CN/scripts/464228-iconfont%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6svg)<br/>
 # 参与者
 开发、发布：[Allen Lv](https://greasyfork.org/zh-CN/users/398437-allen-lv)<br/>
 产品：[liteyais](https://greasyfork.org/zh-CN/users/1061995-liteyais)
